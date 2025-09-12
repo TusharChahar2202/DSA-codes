@@ -45,5 +45,5 @@ int main(){
     Solution sol;
     int result = sol.findPages(arr, k);
     cout << "Minimum number of pages: " << result << endl;
-    
+    return 0;
 }
